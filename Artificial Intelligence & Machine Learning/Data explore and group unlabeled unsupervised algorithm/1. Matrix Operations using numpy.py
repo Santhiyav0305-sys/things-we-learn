@@ -1,4 +1,3 @@
-```python
 import numpy as np
 
 # Create two matrices
@@ -34,7 +33,3 @@ print(np.linalg.det(A))
 # Inverse
 print("\nInverse of A:")
 print(np.linalg.inv(A))
-```
-
-**Main NumPy functions used:** `np.array()`, `np.dot()`, `A.T`, `np.linalg.det()`, and `np.linalg.inv()`.
-
