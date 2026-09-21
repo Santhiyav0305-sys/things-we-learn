@@ -1,6 +1,6 @@
 # Things We Learn
 
-We constantly learn new things. This is a repo to share those learnings. 
+We constantly learn new things. This is a repo to share those learnings.
 
 Things-We-Learn is inspired by Our Day-to-Day Activities, TWL is a repository for everyone to share what we have learn today.
 
