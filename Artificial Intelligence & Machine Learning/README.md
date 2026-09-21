@@ -1122,3 +1122,27 @@ The purpose of this project is to move from **raw data to intelligent decision-m
         ┌────────────────┐
         │ Data Exploration│
         └────────────────
+                 ↓
+        ┌────────────────┐
+        │ Preprocessing  │
+        └────────────────┘
+                 ↓
+        ┌────────────────┐
+        │ Visualization  │
+        └────────────────┘
+                 ↓
+        ┌────────────────┐
+        │ Machine Learning│
+        └────────────────┘
+                 ↓
+        ┌────────────────┐
+        │ AI Algorithms  │
+        └────────────────┘
+                 ↓
+        ┌────────────────┐
+        │ Neural Network │
+        └────────────────┘
+                 ↓
+             PREDICTION
+
+Each program is intentionally small and independent so it can be run, understood, modified, and demonstrated separately.
