@@ -1,6 +1,6 @@
 # NumPy and Pandas: Matrix Operations, Descriptive Statistics & Data Cleaning
 
-## 1. Project Overview
+## 1. Project Overview 
 
 This project demonstrates three common data-analysis tasks using Python:
 
