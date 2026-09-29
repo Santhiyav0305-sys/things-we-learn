@@ -60,7 +60,7 @@ git init
 git add .
 git commit -m "Machine Learning"
 git branch -M main
-git remote add origin https://github.com/Santhiyav0305-sys/things-we-learn/tree/main/MACHINE%20LEARNING.git
+git remote add origin https://github.com/Santhiyav0305-sys/things-we-learn//tree/main/MACHINE%20LEARNING
 git push -u origin main
 ```
 
