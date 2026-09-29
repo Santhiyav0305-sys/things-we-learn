@@ -67,13 +67,13 @@ git push -u origin main
 ## Repository map
 
 ```text
-ml-from-scratch-45-day/
+MACHINE LEARNING/
 ├── README.md
-├── 45_DAY_ROADMAP.md
+├── ROADMAP.md
 ├── LEARNING_METHOD.md
 ├── requirements.txt
 ├── .gitignore
-├── days/                  # 45 guided lessons
+├── days/                  # lessons
 ├── solutions/             # exercise solutions
 ├── notebooks/             # guided Jupyter notebooks
 ├── projects/              # mini-projects + capstone template
