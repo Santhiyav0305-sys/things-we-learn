@@ -1,4 +1,4 @@
-# 45-Day Roadmap
+# Roadmap
 
 ## Phase 1 — Python + Data Foundations (Days 1–10)
 - Day 01: Python environment, variables and types
