@@ -1,4 +1,4 @@
-# Machine Learning From Scratch — 45-Day Guided Learning Repository
+# Machine Learning From Scratch — Learning Repository
 
 This repository turns the uploaded curriculum into a **beginner-friendly, hands-on 45-day ML program**.
 
