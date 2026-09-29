@@ -20,10 +20,10 @@ This repository turns the uploaded curriculum into a **beginner-friendly, hands-
 
 Study **one day at a time**:
 
-1. Read `days/day-XX/lesson.md`
-2. Run `days/day-XX/starter.py`
-3. Complete `days/day-XX/exercises.md` without looking at the solution
-4. Compare with `solutions/day-XX_solution.py`
+1. Read `days/day-1/lesson.md`
+2. Run `days/day-1/starter.py`
+3. Complete `days/day-1/exercises.md` without looking at the solution
+4. Compare with `solutions/day-1_solution.py`
 5. Write down what you learned in `progress/`
 6. Commit your work to Git
 
