@@ -58,9 +58,9 @@ jupyter lab
 ```bash
 git init
 git add .
-git commit -m "Start ML 45-day journey"
+git commit -m "Machine Learning"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/ml-from-scratch-45-day.git
+git remote add origin https://github.com/Santhiyav0305-sys/things-we-learn/tree/main/MACHINE%20LEARNING.git
 git push -u origin main
 ```
 
